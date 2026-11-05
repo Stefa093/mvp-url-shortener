@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Cache de pytest
+.pytest_cache/
+
+# Archivos de configuración local
+.env
+
+# Archivos propios del sistema operativo
+.DS_Store
+
+# Configuración de Visual Studio Code
+.vscode/
